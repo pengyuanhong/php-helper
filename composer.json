@@ -1,0 +1,25 @@
+{
+  "name": "pengyuanhong/php-helper",
+  "description": "php helper",
+  "keywords": ["php", "helper", "php helper"],
+  "type": "Library",
+  "author": [
+    {
+      "name": "Yuanhong Peng",
+      "email": "421798964@qq.com"
+    },
+    {
+      "name": "Kyle",
+      "email": "kyle@diginfos.com",
+      "homepage": "http://diginfos.com"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "PhpHelper\\": "src"
+    }
+  }
+}
