@@ -14,9 +14,7 @@
       "homepage": "http://diginfos.com"
     }
   ],
-  "require": {
-    "php": "^7.0"
-  },
+  "require": {},
   "autoload": {
     "psr-4": {
       "PhpHelper\\": "src"
