@@ -14,6 +14,7 @@
       "homepage": "http://diginfos.com"
     }
   ],
+  "license": "MIT",
   "require": {},
   "autoload": {
     "psr-4": {
